@@ -18,9 +18,10 @@ This project analyzes call center data to evaluate agent performance and custome
 ---
 
 ## 📁 Files Included
-- `call_center_data.xlsx` – raw data used for analysis  
-- `call_center_dashboard.pbix` – Power BI dashboard file  
-- `screenshots/` – images of the dashboard for quick view
+
+- [📄 01 Call-Center-Dataset.xlsx](01%20Call-Center-Dataset.xlsx) – raw dataset used for the analysis  
+- [📊 call center trends.pbix](call%20center%20trends.pbix) – interactive Power BI dashboard  
+- ![📸 Dashboard Preview](call%20center%20trends%20dashboard.JPG) – screenshot of the final dashboard for quick view
 
 ---
 
